@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:46:56.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="kXCRGnoyjU-H-Upw_X2X" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:48:33.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="hhEK0s72nMUOYlXPyM6z" version="24.6.4" type="github">
   <diagram name="Page-1" id="AFo7AjmGSUaWr4dKiOXF">
     <mxGraphModel dx="3452" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -87,6 +87,15 @@
         </mxCell>
         <mxCell id="xSP9gmnaYsNmTb0joVzg-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GCP VPN Benefits&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Leverages GCP which is already an accepted Cloud vendor for ATCO.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Leverages&amp;nbsp;OpenVPN Access Server, which is the most widespread VPN solution in the world.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Allows Threat Intel and Ethical hacking team to exit to internet without interference from ATCO security appliances which is required for healthy scanning of target applications.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;GCP is officially supported by OpenVPN Access Server, hence, providing a one-stop solution for billing software licenses and infrastructure.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-470" y="440" width="300" height="342" as="geometry" />
+        </mxCell>
+        <mxCell id="xSP9gmnaYsNmTb0joVzg-6" value="Threat Intel Project" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="570" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xSP9gmnaYsNmTb0joVzg-7" value="Created By: Alican Kerman" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xSP9gmnaYsNmTb0joVzg-6">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSP9gmnaYsNmTb0joVzg-8" value="Created On: June 2, 2024" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xSP9gmnaYsNmTb0joVzg-6">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
