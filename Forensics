@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:49:32.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="UPSBTyqqXU2lvjziWLQ8" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T18:37:38.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="QPy97gAQpUSZaBE219Al" version="24.6.4" type="github">
   <diagram name="Page-1" id="PYfrLpMehTssmRY--KnS">
     <mxGraphModel dx="1252" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1PBFx-jwxeLW0L1T_OnT-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;threat Intel Project - Workstation And Server Forensics&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1PBFx-jwxeLW0L1T_OnT-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Threat Intel Project - Workstation And Server Forensics&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="80" width="630" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1PBFx-jwxeLW0L1T_OnT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1PBFx-jwxeLW0L1T_OnT-2" target="1PBFx-jwxeLW0L1T_OnT-5" edge="1">
@@ -73,13 +73,13 @@
         <mxCell id="xZycClS3ojeey9G62l5A-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MAGNET Benefits&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Acquire and analyze mobile, cloud, and computer evidence together in one case.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Generate real-time reports and track digital evidence, ensuring chain-of-custody is maintained.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Process warrant returns from providers such as Google, Facebook, and Instagram.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Visualize events across all evidentiary sources with Timelines.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Filter data by date and time ranges, specific artifacts or items of interest, and keywords, to find relevant evidence fast.&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="473" width="321" height="257" as="geometry" />
         </mxCell>
-        <mxCell id="wUKkv_hJz8pZsbNue0Sm-4" value="&lt;b&gt;Threat Intel Project&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wUKkv_hJz8pZsbNue0Sm-4" value="&lt;b&gt;Threat Intel Project&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="730" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wUKkv_hJz8pZsbNue0Sm-5" value="&lt;b&gt;Created By:&lt;/b&gt; Alican Kerman" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wUKkv_hJz8pZsbNue0Sm-4">
+        <mxCell id="wUKkv_hJz8pZsbNue0Sm-5" value="&lt;b&gt;Created By:&lt;/b&gt; Alican Kerman" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wUKkv_hJz8pZsbNue0Sm-4" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wUKkv_hJz8pZsbNue0Sm-6" value="&lt;b&gt;Created On: &lt;/b&gt;June 2, 2024" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wUKkv_hJz8pZsbNue0Sm-4">
+        <mxCell id="wUKkv_hJz8pZsbNue0Sm-6" value="&lt;b&gt;Created On: &lt;/b&gt;June 2, 2024" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wUKkv_hJz8pZsbNue0Sm-4" vertex="1">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
