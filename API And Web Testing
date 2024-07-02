@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:19:05.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="qoaDx4o-I4H677apLcZv" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:46:56.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="kXCRGnoyjU-H-Upw_X2X" version="24.6.4" type="github">
   <diagram name="Page-1" id="AFo7AjmGSUaWr4dKiOXF">
     <mxGraphModel dx="3452" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -68,13 +68,25 @@
           <mxGeometry x="-770" y="350" width="141" height="65.91" as="geometry" />
         </mxCell>
         <mxCell id="FLzkyNCyEP0yuE2RiIC1-20" value="ATCO Internal Network" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-1120" y="140" width="660" height="360" as="geometry" />
+          <mxGeometry x="-1140" y="140" width="660" height="360" as="geometry" />
         </mxCell>
         <mxCell id="lCPjGKXq1qHYj_hYuQL5-11" value="NEW" style="dashed=0;html=1;rounded=1;fillColor=#6554C0;strokeColor=#6554C0;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" parent="1" vertex="1">
           <mxGeometry x="-620.5" y="360" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lCPjGKXq1qHYj_hYuQL5-12" value="2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EB0F0F;" parent="1" vertex="1">
           <mxGeometry x="-580" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSP9gmnaYsNmTb0joVzg-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;BURP SUITE PRO Benefits&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;De facto standard on API and website security testing.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;With ultra-reliable out-of-band application security testing (OAST), Burp Suite Pro can find many otherwise invisible issues, including blind and asynchronous vulnerabilities.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Semi-automated approach speeds up testing while reducing false positives.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Comprehensive API scanning capabilities&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="140" width="300" height="342" as="geometry" />
+        </mxCell>
+        <mxCell id="xSP9gmnaYsNmTb0joVzg-2" value="NEW" style="dashed=0;html=1;rounded=1;fillColor=#6554C0;strokeColor=#6554C0;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="-660" y="544" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSP9gmnaYsNmTb0joVzg-3" value="2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EB0F0F;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSP9gmnaYsNmTb0joVzg-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GCP VPN Benefits&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Leverages GCP which is already an accepted Cloud vendor for ATCO.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Leverages&amp;nbsp;OpenVPN Access Server, which is the most widespread VPN solution in the world.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Allows Threat Intel and Ethical hacking team to exit to internet without interference from ATCO security appliances which is required for healthy scanning of target applications.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;GCP is officially supported by OpenVPN Access Server, hence, providing a one-stop solution for billing software licenses and infrastructure.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="440" width="300" height="342" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
