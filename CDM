@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T18:54:34.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="5QEvGLYQ8OuAGNeh95jC" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T19:02:14.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="aN0iuR0x70QOMcFjhuAd" version="24.6.4" type="github">
   <diagram name="Page-1" id="1FsyNGbLP2T24ds2iJ08">
     <mxGraphModel dx="1473" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pwvV48fxnYwpTGrpUTix-6" value="Untrusted Internet" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="133" width="540" height="187" as="geometry" />
+        </mxCell>
         <mxCell id="pwvV48fxnYwpTGrpUTix-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Threat Intel Program -&amp;nbsp;Continuous Diagnostics and Mitigation&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="20" width="640" height="30" as="geometry" />
         </mxCell>
@@ -23,9 +26,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="226.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="pwvV48fxnYwpTGrpUTix-6" value="Untrusted Internet" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;" vertex="1" parent="1">
-          <mxGeometry x="240" y="133" width="540" height="187" as="geometry" />
         </mxCell>
         <mxCell id="pwvV48fxnYwpTGrpUTix-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Network_128x128.png" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="80" height="80" as="geometry" />
@@ -68,6 +68,21 @@
         </mxCell>
         <mxCell id="pwvV48fxnYwpTGrpUTix-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.752;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pwvV48fxnYwpTGrpUTix-6" target="pwvV48fxnYwpTGrpUTix-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwvV48fxnYwpTGrpUTix-27" value="Threat Intel Project" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="640" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pwvV48fxnYwpTGrpUTix-28" value="Created By: Alican Kerman" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pwvV48fxnYwpTGrpUTix-27">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwvV48fxnYwpTGrpUTix-29" value="Created On: June 2, 2024" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pwvV48fxnYwpTGrpUTix-27">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwvV48fxnYwpTGrpUTix-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Shodan Benefits&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Continuous scanning of ATCO assets from the internet.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Notifications on exposure changes (Such as opened RDP ports).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Ability to hunt for unknown ATCO assets exposed to internet.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="55.5" width="300" height="174.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pwvV48fxnYwpTGrpUTix-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AttackIQ Benefits&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Provides continuous, repeatable, scheduled testing of all security controls according to platform&#39;s threat database.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Goes beyond vulnerability scanning,&amp;nbsp; and assess effectiveness of security controls existing in different layers.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Assists in prioritizing critical gaps and weaknesses for timely mitigation&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="805" y="230" width="300" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
