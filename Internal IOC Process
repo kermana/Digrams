@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T18:30:55.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="wxxZe-7xyQnMpBJboWMl" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T18:31:01.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="L-LISXaC0prdWbFFrHmI" version="24.6.4" type="github">
   <diagram name="Page-1" id="T0Hik_7Cn7qYP1hn2dHy">
     <mxGraphModel dx="1789" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="880" y="107.4" width="150" height="56.67" as="geometry" />
         </mxCell>
         <mxCell id="3tSNsxngoSs5y7X6B-Ta-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MISP Benefits&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;De facto industry standard Threat intelligence Platform.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Open-source.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Ability receive IOCs and contextual information from various sources including but not limited to government an industry partners.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ability to integrate with Microsoft stack inluding Sentinel&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ability to facilitate IOC sharing with third parties.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="220" width="240" height="280" as="geometry" />
+          <mxGeometry x="750" y="190" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="3tSNsxngoSs5y7X6B-Ta-19" value="Threat Intel Project" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="730" width="250" height="90" as="geometry" />
