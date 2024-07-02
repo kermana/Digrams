@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T16:10:35.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="KNu1VLu5eYHvIoUCNo8M" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T16:14:48.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="-BfKwopgtOB0VZheAtNU" version="24.6.4" type="github">
   <diagram name="Page-1" id="AFo7AjmGSUaWr4dKiOXF">
     <mxGraphModel dx="2352" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="FLzkyNCyEP0yuE2RiIC1-4" value="Offensive Security Analyst" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="458" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FLzkyNCyEP0yuE2RiIC1-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;font-size: 20px;&quot;&gt;Internal / External API/Website Testing Infrastructure&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FLzkyNCyEP0yuE2RiIC1-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;font-size: 20px;&quot;&gt;Internal/External API/Website Testing Infrastructure&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-940" y="60" width="800" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FLzkyNCyEP0yuE2RiIC1-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/api_security.svg;" parent="1" vertex="1">
@@ -31,14 +31,14 @@
         <mxCell id="FLzkyNCyEP0yuE2RiIC1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FLzkyNCyEP0yuE2RiIC1-17" target="FLzkyNCyEP0yuE2RiIC1-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lCPjGKXq1qHYj_hYuQL5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLzkyNCyEP0yuE2RiIC1-17" target="FLzkyNCyEP0yuE2RiIC1-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FLzkyNCyEP0yuE2RiIC1-17" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud" parent="1" vertex="1">
           <mxGeometry x="-749.5" y="544" width="100" height="69" as="geometry" />
         </mxCell>
         <mxCell id="FLzkyNCyEP0yuE2RiIC1-18" value="Google Cloud Platform&lt;div&gt;VPN&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-769" y="613" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FLzkyNCyEP0yuE2RiIC1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FLzkyNCyEP0yuE2RiIC1-19" target="FLzkyNCyEP0yuE2RiIC1-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FLzkyNCyEP0yuE2RiIC1-19" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-718" y="570" width="38.5" height="33" as="geometry" />
